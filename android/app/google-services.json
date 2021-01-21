@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "281032859158",
+    "firebase_url": "https://first-flutter-app-99bb7-default-rtdb.firebaseio.com",
+    "project_id": "first-flutter-app-99bb7",
+    "storage_bucket": "first-flutter-app-99bb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281032859158:android:5d113380a33b07d9fddf37",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281032859158-n0choahkfaok390vvjpqimkr8o9gp77f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBStXC3YZyTz5VE7bkrIsFPDi2YYm_G8hs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281032859158-n0choahkfaok390vvjpqimkr8o9gp77f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "281032859158-g9q71lit99u1k4eb8s0v5sb3ianlm3h7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.firebase.notesApp.notesApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281032859158:android:7772b90406f4cec9fddf37",
+        "android_client_info": {
+          "package_name": "com.firebase.notesApp.notes_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281032859158-3ikl09abetlqlkcb1qpo3nd61fi3o23d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firebase.notesApp.notes_app",
+            "certificate_hash": "eeab5481b866f6aa10b4e50afd7168a408f54da0"
+          }
+        },
+        {
+          "client_id": "281032859158-n0choahkfaok390vvjpqimkr8o9gp77f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBStXC3YZyTz5VE7bkrIsFPDi2YYm_G8hs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281032859158-n0choahkfaok390vvjpqimkr8o9gp77f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "281032859158-g9q71lit99u1k4eb8s0v5sb3ianlm3h7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.firebase.notesApp.notesApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281032859158:android:07f31ac47630012bfddf37",
+        "android_client_info": {
+          "package_name": "com.myapps.test_social_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281032859158-4upvodpf0p1d0mevk8fhq9860sorjg09.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myapps.test_social_login",
+            "certificate_hash": "eeab5481b866f6aa10b4e50afd7168a408f54da0"
+          }
+        },
+        {
+          "client_id": "281032859158-n0choahkfaok390vvjpqimkr8o9gp77f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBStXC3YZyTz5VE7bkrIsFPDi2YYm_G8hs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281032859158-n0choahkfaok390vvjpqimkr8o9gp77f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "281032859158-g9q71lit99u1k4eb8s0v5sb3ianlm3h7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.firebase.notesApp.notesApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
